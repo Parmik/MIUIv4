@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Key Chain</string>
-    <string name="title_no_certs">No certificates found</string>
-    <string name="title_select_cert">Select certificate</string>
-    <string name="requesting_application">The application %s has requested a certificate. Selecting a certificate will grant the application the ability to use this identity with servers now and in the future.</string>
-    <string name="requesting_server">The application has identified the requesting server as %s but you should only grant the application access to the certificate if you trust the application.</string>
-    <string name="install_new_cert_message">You can install certificates from a PKCS#12 file with a %1$s or a %2$s extension located in external storage.</string>
-    <string name="install_new_cert_button_label">Install</string>
-    <string name="allow_button">Allow</string>
-    <string name="deny_button">Deny</string>
+    <string name="app_name">Klíčenka</string>
+    <string name="title_no_certs">Nebyly nalezeny žádné certifikáty</string>
+    <string name="title_select_cert">Zvolit certifikát</string>
+    <string name="requesting_application">Aplikace %s požaduje certifikát. Zvolení certifikátu dá aplikaci právo použít identitu trvale.</string>
+    <string name="requesting_server">Aplikace indentifikovala server jako %s. Přesto byste měli dát aplikaci přístup jen pokud duvěřujete zdroji odkud aplikace pochází.</string>
+    <string name="install_new_cert_message">Můžete instalovat certifikáty ze souboru PKCS#12 s příponami %1$s nebo %2$s umístěné na uložišti.</string>
+    <string name="install_new_cert_button_label">Instalovat</string>
+    <string name="allow_button">Povolit</string>
+    <string name="deny_button">Zakázat</string>
 </resources>
