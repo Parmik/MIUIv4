@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="transformation_entries">
-        <item>Class</item>
-        <item>Classic(No overshoot)</item>
-        <item>Crossfade</item>
-        <item>Falldown</item>
-        <item>Page</item>
-        <item>Cascading</item>
-        <item>Rotation</item>
-        <item>3D Cube</item>
+        <item>Klasicky</item>
+        <item>Klasicky (bez překmitu)</item>
+        <item>Prolnutí</item>
+        <item>2D rotace</item>
+        <item>Stránka</item>
+        <item>Stoh</item>
+        <item>3D Rotace</item>
+        <item>3D Kostka</item>
     </string-array>
     <string-array name="transformation_values">
         <item>0</item>
