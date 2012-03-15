@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="prefEntries_ringtone_repeat">
-        <item>Once</item>
-        <item>Twice</item>
-        <item>Thrice</item>
-        <item>Five times</item>
-        <item>Ten times</item>
+        <item>Jednou</item>
+        <item>Dvakrát</item>
+        <item>Třikrát</item>
+        <item>Pětkrát</item>
+        <item>Desetkrát</item>
     </string-array>
     <string-array name="contact_entries">
-        <item>Name</item>
-        <item>Nickname</item>
-        <item>Phone</item>
+        <item>Jméno</item>
+        <item>Přezdívka</item>
+        <item>Telefon</item>
         <item>E-mail</item>
-        <item>Organization</item>
+        <item>Organizace</item>
         <item>IM</item>
-        <item>SIP Phone</item>
-        <item>Birthday</item>
-        <item>Website</item>
-        <item>Address</item>
-        <item>Note</item>
+        <item>SIP Telefon</item>
+        <item>Narozeniny</item>
+        <item>WWW stránka</item>
+        <item>Adresa</item>
+        <item>Poznámka</item>
     </string-array>
     <string-array name="select_dialog_items">
-        <item>1 second</item>
-        <item>2 seconds</item>
-        <item>3 seconds</item>
-        <item>4 seconds</item>
-        <item>5 seconds</item>
-        <item>6 seconds</item>
-        <item>7 seconds</item>
-        <item>8 seconds</item>
-        <item>9 seconds</item>
-        <item>10 seconds</item>
-        <item>Other</item>
+        <item>1 vteřina</item>
+        <item>2 vteřiny</item>
+        <item>3 vteřiny</item>
+        <item>4 vteřiny</item>
+        <item>5 vteřin</item>
+        <item>6 vteřin</item>
+        <item>7 vteřin</item>
+        <item>8 vteřin</item>
+        <item>9 vteřin</item>
+        <item>10 vteřin</item>
+        <item>Ostatní</item>
     </string-array>
     <string-array name="prefEntries_vibrateWhen">
-        <item>Always</item>
-        <item>Only when silent</item>
-        <item>Never</item>
+        <item>Vždy</item>
+        <item>Jen v tichém režimu</item>
+        <item>Nikdy</item>
     </string-array>
 </resources>
