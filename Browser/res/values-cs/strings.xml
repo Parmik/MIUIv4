@@ -154,9 +154,9 @@
     <string name="import_bookmark">Importovat záložky</string>
     <string name="import_bookmarks_dialog_add">Přidat záložky k Google účtu</string>
     <string name="import_bookmarks_dialog_confirm_add">Přidat záložky z telefonu a začít synchronizovat s %s?</string>
-    <string name="import_bookmarks_dialog_confirm_delete">Delete bookmarks currently on this device and begin syncing bookmarks with %s?</string>
+    <string name="import_bookmarks_dialog_confirm_delete">Smazat záložky na tomto zařízení a synchronizovat záložky s %s?</string>
     <string name="import_bookmarks_dialog_delete_select_account">Vymazat záložky z telefonu a začít synchronizovat s Google účtem?</string>
-    <string name="import_bookmarks_dialog_description">"Bookmarks on this device are not yet associated with a Google account. Save these bookmarks by adding them to an account. Delete these bookmarks if you don't want to sync them."</string>
+    <string name="import_bookmarks_dialog_description">"Záložky na tomto zařízení nejsou asociovány s účtem Google. Uložte tyto záložky jejich přidáním do účtu. Smažte tyto záložky pokud je nechcete synchronizovat"</string>
     <string name="import_bookmarks_dialog_import">Přidat záložky z Androida k záložkám v %s</string>
     <string name="import_bookmarks_dialog_remove">Vymazat záložky</string>
     <string name="import_bookmarks_dialog_select_add_account">Přidat záložky z telefonu a začít synchronizovat s Google účtem?</string>
@@ -191,7 +191,7 @@
     <string name="open_bookmark">Otevřít</string>
     <string name="page_info_address">Adresa:</string>
     <string name="page_info_view">Zobrazit informace o stránce</string>
-    <string name="page_info">Page info</string>
+    <string name="page_info">Informace o stránce</string>
     <string name="password">Heslo</string>
     <string name="permission_preload_label">Preload results</string>
     <string name="picasa">Picasa</string>
@@ -205,7 +205,7 @@
     <string name="pref_autologin_progress">Přihlašování k Google pomocí %s</string>
     <string name="pref_autologin_title">Automatické přihlášení k Google</string>
     <string name="pref_content_autofit_summary">Naformátovat stránku pro obrazovku</string>
-    <string name="pref_content_autofit">Auto-fit pages</string>
+    <string name="pref_content_autofit">Automaticky zarovnat stránky</string>
     <string name="pref_content_block_popups">Blokovat vyskakovací okna</string>
     <string name="pref_content_homepage">Nastavit domovskou stránku</string>
     <string name="pref_content_javascript">Povolit JavaScript</string>
@@ -233,11 +233,11 @@
     <string name="pref_default_zoom_dialogtitle">Výchozí přiblížení</string>
     <string name="pref_default_zoom">Výchozí přiblížení</string>
     <string name="pref_development_cpu_upload_path">Enable Cpu Upload Path</string>
-    <string name="pref_development_error_console">Show JavaScript Console</string>
+    <string name="pref_development_error_console">Zobrazit Javascriptovou konzoli</string>
     <string name="pref_development_hardware_accel_skia">Enable HW Accelerated Skia</string>
-    <string name="pref_development_hardware_accel">Enable OpenGL Rendering</string>
+    <string name="pref_development_hardware_accel">Zapnout renderování pomocí OpenGL</string>
     <string name="pref_development_nav_dump">Enable nav cache dump</string>
-    <string name="pref_development_normal_rendering">Normal rendering</string>
+    <string name="pref_development_normal_rendering">Normální renderování</string>
     <string name="pref_development_reset_prelogin">Reset prelogin</string>
     <string name="pref_development_single_column_rendering">Single column rendering</string>
     <string name="pref_development_title">Debug</string>
@@ -293,7 +293,7 @@
     <string name="pref_privacy_enable_geolocation">Povolit určení polohy</string>
     <string name="pref_privacy_enable_geolocation_summary">Povolit www stránkám použít Vaši polohu.</string>
     <string name="pref_privacy_formdata_title">Data formulářů</string>
-    <string name="pref_privacy_location_title">Location</string>
+    <string name="pref_privacy_location_title">Lokace</string>
     <string name="pref_privacy_security_title">Soukromí &amp; bezpečnost</string>
     <string name="pref_security_accept_cookies_summary">Allow sites to save and read cookie data</string>
     <string name="pref_security_accept_cookies">Přijímat cookies</string>
@@ -303,7 +303,7 @@
     <string name="pref_security_save_form_data">Pamatovat si data formulářů</string>
     <string name="pref_security_save_form_data_summary">Zapamatovat si data z formulářu pro pozdější použití.</string>
     <string name="pref_security_show_security_warning_summary">"Zobrazit varování jestliže je problém s bezpečností stránky"</string>
-    <string name="pref_security_show_security_warning">Show security warnings</string>
+    <string name="pref_security_show_security_warning">Zobrazit bezpečnostní varování</string>
     <string name="pref_set_homepage_to">Nastavit</string>
     <string name="pref_text_zoom">Velikost textu</string>
     <string name="pref_use_instant_search_summary">Použít Google Instant když používáte Hledání Google, abyste viděl výsledky vyhledávání (může zvýšit datové přenosy).</string>
@@ -311,7 +311,7 @@
     <string name="pref_zoom_on_double_tap">Přiblíženi při dvojím klepnutí</string>
     <string name="preview">Náhled</string>
     <string name="progress_dialog_setting_wallpaper">Nastavují pozadí…</string>
-    <string name="reload">Refresh</string>
+    <string name="reload">Znovu načíst stránku</string>
     <string name="remove_bookmark">Smazat záložku</string>
     <string name="remove_from_bookmarks">Odstranit ze záložek</string>
     <string name="remove_history_item">Odstranit z historie</string>
